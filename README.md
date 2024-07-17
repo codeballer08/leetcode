@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/codeballer08/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/codeballer08/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/codeballer08/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/codeballer08/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1677-matrix-diagonal-sum](https://github.com/codeballer08/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeballer08/leetcode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/codeballer08/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
